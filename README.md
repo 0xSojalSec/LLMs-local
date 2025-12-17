@@ -4,8 +4,44 @@
  
 <img src="https://preview.redd.it/my-160gb-local-llm-rig-v0-qukd2c1lzk5f1.jpeg?auto=webp&s=eda341738c4e87aa8d6940d138804df741ea2b08">
 
+## Getting Started
+
+If you're new to running LLMs locally, here are some quick recommendations to get you started:
+
+- **For beginners**: Start with [LM Studio](https://lmstudio.ai/) or [Ollama](https://github.com/ollama/ollama) - both are super easy to set up and have great documentation
+- **For coding tasks**: Check out [Qwen3-Coder](https://huggingface.co/collections/Qwen/qwen3-coder-687fc861e53c939e52d52d10) models or [Devstral 2](https://huggingface.co/collections/mistralai/devstral-2) - they work really well for code generation
+- **For a nice UI**: [Open WebUI](https://github.com/open-webui/open-webui) pairs perfectly with Ollama and gives you a ChatGPT-like experience
+- **Hardware requirements**: Use the [LLM Memory calculator](https://www.kolosal.ai/memory-calculator) to figure out if your system can handle a specific model before downloading
+
+Most tools here work on Windows, Mac, and Linux, but some are platform-specific (like MLX for Apple Silicon). Always check the documentation!
+
+## Tips & Troubleshooting
+
+### Performance Optimization
+- **Use quantized models**: GGUF quantized models (Q4, Q5, Q6) offer great balance between quality and speed. Q8 is best quality but slower
+- **GPU vs CPU**: If you have an NVIDIA GPU, make sure CUDA is properly installed. For AMD GPUs, check out ROCm support or use CPU inference
+- **Context length matters**: Longer context = more RAM needed. Start with smaller context windows if you're running out of memory
+- **Batch processing**: Some engines like vLLM handle multiple requests better than single-threaded inference
+
+### Common Issues
+- **Out of memory errors**: Try a smaller model or lower quantization (Q4 instead of Q8), or reduce context length
+- **Slow inference**: Check if you're using GPU acceleration. CPU inference is much slower - consider using smaller models or better hardware
+- **Model not loading**: Verify the model format matches your inference engine (GGUF for llama.cpp, different formats for vLLM)
+- **Installation problems**: Most tools have Docker options which are usually more reliable than manual setup
+
+### Model Selection Guide
+- **7B-13B models**: Good for most tasks, run on 16GB+ RAM systems
+- **30B+ models**: Better quality but need 32GB+ RAM or multiple GPUs
+- **Coding models**: Usually need more context, so plan your RAM accordingly
+- **Multimodal models**: Require significantly more resources than text-only models
+
+### Getting Help
+If you run into issues, check the tool's GitHub issues page or community forums. The [Communities](#communities) section below has links to helpful communities where you can ask questions.
+
 ## Table of Contents
 
+- [Getting Started](#getting-started)
+- [Tips & Troubleshooting](#tips--troubleshooting)
 - [Inference platforms](#inference-platforms)
 - [Inference engines](#inference-engines)
 - [User Interfaces](#user-interfaces)
