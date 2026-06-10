@@ -110,6 +110,11 @@
 
 #### General purpose
 
+- [DiffusionGemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it) - Google's new diffusion-based multimodal LLM (dropped June 10, 2026). 26B MoE, 1,100+ tokens/sec, runs quantized on consumer hardware.
+- [MiniMax M3](https://huggingface.co/minimax-ai/MiniMax-M3) - Frontier open-weights model with 1M context, native multimodality, and top-tier coding/agentic performance (June 2026).
+- [DeepSeek-V4](https://huggingface.co/deepseek-ai/DeepSeek-V4) - Latest DeepSeek series (V4-Pro & Flash) excellent long-context reasoning and coding (late May 2026).
+- [Kimi-K2.6](https://huggingface.co/moonshotai/Kimi-K2.6) - Moonshot AI's latest agent-oriented long-context model (May/June 2026).
+
 - [Qwen3-Next](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d) - a collection of the latest generation Qwen LLMs
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Gemma 3](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d) - a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [gpt-oss](https://huggingface.co/collections/openai/gpt-oss-68911959590a1634ba11c7a4) - a collection of open-weight models from OpenAI, designed for powerful reasoning, agentic tasks, and versatile developer use cases
