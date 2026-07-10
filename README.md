@@ -49,6 +49,7 @@
 - <img src="https://img.shields.io/github/stars/menloresearch/jan?style=social" height="17" align="texttop"/> [jan](https://github.com/menloresearch/jan) - an open source alternative to ChatGPT that runs 100% offline on your computer
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
 - <img src="https://img.shields.io/github/stars/ChatBoxAI/ChatBox?style=social" height="17" align="texttop"/> [ChatBox](https://github.com/ChatBoxAI/ChatBox) - user-friendly desktop client app for AI models/LLMs
+- <img src="https://img.shields.io/github/stars/off-grid-ai/off-grid-ai-desktop?style=social" height="17" align="texttop"/> [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop) - a private, local-first AI desktop app that runs LLMs, image gen, and transcription fully offline on your Mac
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17" align="texttop"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
 
 [Back to Table of Contents](#table-of-contents)
