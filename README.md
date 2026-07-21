@@ -354,7 +354,7 @@
 - <img src="https://img.shields.io/youtube/channel/subscribers/UC8h2Sf-yyo1WXeEUr-OHgyg?style=social" height="17" align="texttop"/> [Miyconst](https://www.youtube.com/@Miyconst) - tests of various types of hardware capable of running LLMs
 - [Kolosal - LLM Memory calculator](https://www.kolosal.ai/memory-calculator) - estimate the RAM requirements of any GGUF model instantly
 - [LLM Inference VRAM & GPU Requirement Calculator](https://app.linpp2009.com/en/llm-gpu-memory-calculator) - calculate how many GPUs you need to deploy LLMs
-- [LLM VRAM Calculator](https://setupquarterly.com/reviews/llm-vram-calculator/) - estimate the VRAM or unified memory needed to run any LLM by model size, quantization (Q4/Q8/FP16), and context length, and see which 2026 consumer GPUs fit
+- [LLM VRAM Calculator](https://verdictbits.com/reviews/llm-vram-calculator/) - estimate the VRAM or unified memory needed to run any LLM by model size, quantization (Q4/Q8/FP16), and context length, and see which 2026 consumer GPUs fit
 - <img src="https://img.shields.io/github/stars/vosen/ZLUDA?style=social" height="17" align="texttop"/> [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 
 [Back to Table of Contents](#table-of-contents)
