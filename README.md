@@ -422,6 +422,7 @@
 ### Miscellaneous
 
 - [Self-hosted AI coding that just works](https://www.reddit.com/r/LocalLLaMA/comments/1lt4y1z/selfhosted_ai_coding_that_just_works/)
+- <img src="https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social" height="17" align="texttop"/> [DSH Studio](https://github.com/Moresyl/dsh-studio) - a local-first cross-platform desktop manager for DeepSeek Harness with installation, process controls, health checks, and logs
 
 [Back to Table of Contents](#table-of-contents)
 
