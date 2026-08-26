@@ -70,6 +70,8 @@
 - <img src="https://img.shields.io/github/stars/FastFlowLM/FastFlowLM?style=social" height="17" align="texttop"/> [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - run LLMs on AMD Ryzen™ AI NPUs
 - <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
 - <img src="https://img.shields.io/github/stars/intel/llm-scaler?style=social" height="17" align="texttop"/> [llm-scaler](https://github.com/intel/llm-scaler) - run LLMs on Intel Arc™ Pro B60 GPUs
+- <img src="https://img.shields.io/github/stars/shyringo/deepseek-v4-flash-0731-in-c?style=social" height="17" align="texttop"/> [deepseek-v4-flash-0731-in-c](https://github.com/shyringo/deepseek-v4-flash-0731-in-c) - run 284B-A13B DeepSeek-V4-Flash-0731 on one laptop CPU with an 8 GB tested path
+- <img src="https://img.shields.io/github/stars/shyringo/qwen3.8-27b-in-c?style=social" height="17" align="texttop"/> [qwen3.8-27b-in-c](https://github.com/shyringo/qwen3.8-27b-in-c) - run Qwen3.8-27B GGUFs on one laptop CPU with an 8 GB tested path
 
 [Back to Table of Contents](#table-of-contents)
 
