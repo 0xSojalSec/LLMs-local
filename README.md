@@ -80,6 +80,7 @@
 - <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social" height="17" align="texttop"/> [Text generation web UI](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support
 - <img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social" height="17" align="texttop"/> [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users
 - <img src="https://img.shields.io/github/stars/n4ze3m/page-assist?style=social" height="17" align="texttop"/> [Page Assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+- <img src="https://img.shields.io/github/stars/SecureCloudGroup/SmartBrain_3000?style=social" height="17" align="texttop"/> [SmartBrain](https://github.com/SecureCloudGroup/SmartBrain_3000) - local-first personal assistant with an encrypted knowledge base, approval-gated tools, built-in voice, and end-to-end-encrypted phone access; runs on MLX/Ollama or cloud keys (source-available, ELv2)
 
 [Back to Table of Contents](#table-of-contents)
 
