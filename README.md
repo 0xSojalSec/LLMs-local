@@ -50,6 +50,7 @@
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
 - <img src="https://img.shields.io/github/stars/ChatBoxAI/ChatBox?style=social" height="17" align="texttop"/> [ChatBox](https://github.com/ChatBoxAI/ChatBox) - user-friendly desktop client app for AI models/LLMs
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17" align="texttop"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
+- <img src="https://img.shields.io/github/stars/htobty/ReadyLLM?style=social" height="17" align="texttop"/> [ReadyLLM](https://github.com/htobty/ReadyLLM) - tune, deploy and monitor local LLMs from one UI — benchmarks llama.cpp / vLLM settings on your actual hardware instead of guessing
 
 [Back to Table of Contents](#table-of-contents)
 
