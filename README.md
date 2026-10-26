@@ -263,6 +263,7 @@
 - <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17" align="texttop"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
 - <img src="https://img.shields.io/github/stars/humanlayer/humanlayer?style=social" height="17" align="texttop"/> [humanlayer](https://github.com/humanlayer/humanlayer) - the best way to get AI coding agents to solve hard problems in complex codebases
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+- <img src="https://img.shields.io/github/stars/Whq02/MercuryCLI?style=social" height="17" align="texttop"/> [Mercury CLI](https://github.com/Whq02/MercuryCLI) - an open-source terminal coding agent for macOS, Linux and Windows with local model support via Ollama, LM Studio, vLLM, and llama.cpp (`/localsetup`), parallel sessions, git worktree crewmates, LSP, and a DAP debugger
 
 [Back to Table of Contents](#table-of-contents)
 
