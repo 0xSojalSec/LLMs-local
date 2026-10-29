@@ -263,6 +263,7 @@
 - <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17" align="texttop"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
 - <img src="https://img.shields.io/github/stars/humanlayer/humanlayer?style=social" height="17" align="texttop"/> [humanlayer](https://github.com/humanlayer/humanlayer) - the best way to get AI coding agents to solve hard problems in complex codebases
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+- <img src="https://img.shields.io/github/stars/LeulAria/VOLT?style=social" height="17" align="texttop"/> [Volt](https://github.com/LeulAria/VOLT) - an open-source AI code editor on the VS Code core that runs local models (Ollama, LM Studio) or agent CLIs like Claude Code and Codex
 
 [Back to Table of Contents](#table-of-contents)
 
